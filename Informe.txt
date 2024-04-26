@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 introducción
 Buenos días .....
+=======
+desarrollo
+Es un libro muy bueno
+>>>>>>> desarrollo
